@@ -1,2 +1,2 @@
 # FuncadeNFT
-Practice NFT smart contracts from 2021.
+ NFT smart contracts from 2021 project.
